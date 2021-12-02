@@ -4,7 +4,7 @@
   "description": "Again w/ Github's Suggestion. This Repo Has A Module That Sanitizes All English Into The Standard Title Case. Just Like This!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Dtech-Dbug/super-duper-eureka/issues"
   },
-  "homepage": "https://github.com/Dtech-Dbug/super-duper-eureka#readme"
+  "homepage": "https://github.com/Dtech-Dbug/super-duper-eureka#readme",
+  "dependencies": {
+    "jest": "^27.4.3"
+  }
 }
