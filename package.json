@@ -1,0 +1,24 @@
+{
+  "name": "sanitize-string",
+  "version": "1.0.0",
+  "description": "Again w/ Github's Suggestion. This Repo Has A Module That Sanitizes All English Into The Standard Title Case. Just Like This!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dtech-Dbug/super-duper-eureka.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "npm",
+    "open-source"
+  ],
+  "author": "Dtech-Dbug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dtech-Dbug/super-duper-eureka/issues"
+  },
+  "homepage": "https://github.com/Dtech-Dbug/super-duper-eureka#readme"
+}
