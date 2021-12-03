@@ -10,7 +10,7 @@ function titleCase(str) {
     cased += casingWords + " ";
   }
 
-  return cased;
+  return cased.trimEnd();
 }
 
 let test = titleCase("hEy ArE");
