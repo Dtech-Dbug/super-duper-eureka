@@ -11,15 +11,15 @@ You Understood Right? 👀
 ## setup and installation
 
 - using npm:
-  `npm i sanitize-string`
+  `npm i super-duper-eureka`
 
 - require in the project:
 
 ```js
 // commonjs module
-const titleCase = require("sanitize-string");
+const titleCase = require("super-duper-eureka");
 
-import titleCase from "sanitize-string";
+import titleCase from "super-duper-eureka";
 ```
 
 ### usage:
