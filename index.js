@@ -1,5 +1,5 @@
 function titleCase(str) {
-  const arrOfStrings = str.split(" ");
+  const arrOfStrings = str.trim().split(" ");
   let casingWords;
   let cased = "";
 
@@ -13,9 +13,6 @@ function titleCase(str) {
   return cased;
 }
 
-// console.log(titleCase("I'm a little tea pot"));
-// console.log(titleCase("I'm A little tea pot"));
-
-console.log(titleCase("you know javaScript!"));
-console.log(titleCase("wHat ThE fOrK?"));
-console.log(titleCase("aRe yOu fOr ReAL?"));
+let test = titleCase("hEy ArE");
+console.log(test);
+module.exports = titleCase;
